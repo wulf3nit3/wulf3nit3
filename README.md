@@ -1,6 +1,6 @@
 # Hi there, I'm Karin! 👋
 
-I am a Computer Science student at Tel Aviv University (Expected Graduation: February 2027). I transferred directly to my second year via the academic excellence path, having previously maintained a 90 average at The Open University.
+I am a Computer Science student at Tel Aviv University. I transferred directly to my second year via the academic excellence path, having previously maintained a 90 average at The Open University.
 
 Before university, I served as a System Administrator in Mamram (IDF). There, I maintained server infrastructure and built a strong troubleshooting mindset working in mission-critical environments. Today, I combine that solid infrastructure background with a deep interest in theoretical computer science, algorithms, and data engineering.
 
